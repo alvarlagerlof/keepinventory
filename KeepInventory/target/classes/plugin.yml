@@ -1,0 +1,4 @@
+main: com.alvarlagerlof.keepinventory.Main
+name: KeepInventory
+version: 0.1
+api-version: 1.14
