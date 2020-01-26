@@ -1,5 +1,5 @@
 # Keep inventory
-🔒 Foobar is a Python library for dealing with word pluralization.
+🔒 Toogle keepinvetory on Spigot servers on a player-by-player basis.
 
 ## Installation
 TBD
