@@ -1,4 +1,4 @@
-# 🔒 Keep inventory
+# Keep inventory
 Toogle keepinvetory on Spigot servers on a player-by-player basis.
 
 ## Installation
